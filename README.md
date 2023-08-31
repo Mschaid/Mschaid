@@ -3,7 +3,6 @@
 
 Extensive experience in full stack data science, encompassing research, preprocessing, advanced Python proficiency, and expertise in diverse deep learning models. Proficient in software engineering practices and data engineering principles.
 
-![image](https://github.com/Mschaid/Mschaid/assets/68658862/98ca46fa-d127-4172-a01d-3e3ff4287de5)
 
 ____
 
