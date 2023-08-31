@@ -1,6 +1,28 @@
 # Mike Scahid, Phd
 ## About me
-I am a Chicago based research scientist and data scientist with over 13 years of experience in applied research, data analysis, and data science. I have advanced experience with Python and related data science ecosystems (tensorflow, pytroch, numpy, pandas, polars). Experience with software engineering practices such unix systems, git/ version control, logging, unit testing, APIs and documentation. Understanding of statistical, machine learning and deep learning fundamentals. Experience with cutting edge deep learning models such as convolutional neural networks, recurrent neural networks, gradient boosted trees, and reinforcement learning algorithms. Familiar with data engineer practices, such as distributed computing, data models and pipelining systems.  Through the combination of modern data techniques, open-source tool development and collaborative science I aim to bridge the gap between technology, discovery, and health care.
+
+Extensive experience in full stack data science, encompassing research, preprocessing, advanced Python proficiency, and expertise in diverse deep learning models. Proficient in software engineering practices and data engineering principles.
+
+EMPLOYMENT HISTORY
+Data Scientist
+Northwestern Feinberg School of Medicine, Department of Neuroscience, Chicago, IL
+JULY 2020 — PRESENT
+● Lead engineer for full-stack machine learning codebase (link) designing multi-model and multi-variate time series prediction from data set composed of 100million+ datapoints 
+● Operated as project lead: trained, managed and supervised junior staff
+● Contributed, authored and published open-source Python software with widespread adoption
+● Engineered an automated data collection, preprocessing and visualization pipeline
+● Above efforts resulted in significant funding acquisition and operational efficiency enhancements
+● Pioneered and conducted impactful data science workshops, facilitating effective knowledge transfer and skill acquisition for junior employees and staff
+
+Research Scientist
+University of Wisconsin-Madison, Department of Medicine, 
+Madison, WI
+AUGUST 2014 — JUNE 2020
+● Directed research design and execution, securing $2M in funding and driving 12+ peer-reviewed publications
+● Skillfully collected, analyzed, and visualized data for high-impact publications
+ ● Integral role in enhancing internal tools for streamlined data pipelines, amplifying operational efficiency
+![image](https://github.com/Mschaid/Mschaid/assets/68658862/98ca46fa-d127-4172-a01d-3e3ff4287de5)
+
 ____
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0072b1)](https://www.linkedin.com/in/michael-schaid-phd-bb328a41/)
