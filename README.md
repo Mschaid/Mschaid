@@ -1,27 +1,7 @@
 # Michael Scahid, Phd
 
 
-## Extensive experience in full stack data science, encompassing research, preprocessing, advanced Python proficiency, and expertise in diverse deep learning models. Proficient in software engineering practices and data engineering principles.
-
-### EMPLOYMENT HISTORY
-#### Data Scientist
-Northwestern Feinberg School of Medicine, Department of Neuroscience, Chicago, IL
-JULY 2020 — PRESENT
-
-* Lead engineer for full-stack machine learning codebase (link) designing multi-model and multi-variate time series prediction from data set composed of 100million+ datapoints 
-* Operated as project lead: trained, managed and supervised junior staff
-* Contributed, authored and published open-source Python software with widespread adoption
-* Engineered an automated data collection, preprocessing and visualization pipeline
-* Above efforts resulted in significant funding acquisition and operational efficiency enhancements
-* Pioneered and conducted impactful data science workshops, facilitating effective knowledge transfer and skill acquisition for junior employees and staff
-
-#### Research Scientist
-University of Wisconsin-Madison, Department of Medicine, 
-Madison, WI
-AUGUST 2014 — JUNE 2020
-* Directed research design and execution, securing $2M in funding and driving 12+ peer-reviewed publications
-* Skillfully collected, analyzed, and visualized data for high-impact publications
-*  Integral role in enhancing internal tools for streamlined data pipelines, amplifying operational efficiency
+With a wealth of experience spanning full stack data science, I bring a holistic approach to every project, from data research and preprocessing to harnessing advanced Python skills and a deep understanding of diverse deep learning models. My journey as a Data Scientist at Northwestern Feinberg School of Medicine's Department of Neuroscience has been marked by leading the development of a robust machine learning codebase, steering multimodal time series predictions, and nurturing a dynamic team. Open-source Python software bearing my contributions has gained widespread adoption, and my innovative work in automating data workflows has led to both increased funding and operational efficiency. Furthermore, my tenure as a Research Scientist at the University of Wisconsin-Madison's Department of Medicine, where I directed intricate research efforts, secured substantial funding, and played a pivotal role in optimizing data pipelines, has enriched my multifaceted skill set. My passion for knowledge dissemination is evident in my role as a workshop pioneer, facilitating the growth of junior talents. My journey embodies a commitment to innovation, teamwork, and impactful contributions across the data science landscape.
 
 
 ____
