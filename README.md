@@ -1,4 +1,4 @@
-# Michael Scahid, Phd
+# Michael Schaid, Phd
 ### Data Scientist | Research Scientist | Neuroscientist
 
 
