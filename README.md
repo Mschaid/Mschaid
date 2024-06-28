@@ -1,4 +1,4 @@
-# Michael Schaid, Phd
+# Michael Schaid
 ### Data Scientist | Research Scientist | Neuroscientist
 
 As a data scientist, I bridge the gap between machine learning and research to uncover new insights and drive innovation. I have a proven track record for leveraging advanced machine learning and deep learning techniques to extract novel insights from complex data and drive groundbreaking discoveries, optimizing data pipelines and internal tools, securing substantial funding and publishing in top-tier journals. Lets chat!
