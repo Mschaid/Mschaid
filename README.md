@@ -37,12 +37,10 @@ BSc, University of Minnesota-Twin Cities 2013
 Biochemistry
 
 
-![image](https://github.com/Mschaid/Mschaid/assets/68658862/296f1687-64ac-4771-90c0-a1d2b1dabf5f)
-
 
 ____
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0072b1)](https://www.linkedin.com/in/michael-schaid-phd-bb328a41/)
 [![Twitter](https://img.shields.io/badge/Twitter-00acee)](https://twitter.com/mike_schaid)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-de5246)](https://scholar.google.com/citations?hl=en&user=yxboSJMAAAAJ&view_op=list_works&sortby=pubdate)
-[![Webpage](https://img.shields.io/badge/My%20Website-008080)](https://mikeschaidphd.com/)
+
