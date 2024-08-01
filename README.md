@@ -1,7 +1,18 @@
 # Michael Schaid
-### Data Scientist | Research Scientist | Neuroscientist
+### Data Scientist | Medical Machine Learning & AI 
 
-As a data scientist, I bridge the gap between machine learning and research to uncover new insights and drive innovation. I have a proven track record for leveraging advanced machine learning and deep learning techniques to extract novel insights from complex data and drive groundbreaking discoveries, optimizing data pipelines and internal tools, securing substantial funding and publishing in top-tier journals. Lets chat!
+Passionate about leveraging the power of machine learning and artificial intelligence to revolutionize healthcare outcomes. My mission is to bridge the gap between developers, researchers, and clinicians, fostering collaboration at the cutting edge of medical AI.
+
+### What I Do
+Develop and implement machine learning in the biological space
+Analyze complex datasets to extract actionable insights
+Collaborate with cross-functional teams to translate AI solutions into practice
+
+### My Vision
+I believe in the transformative potential of AI in medicine. By uniting the expertise of technologists, researchers, and healthcare professionals, we can accelerate the development of AI solutions that genuinely improve patient care and medical decision-making.
+
+### Let's Connect
+If you're working at the intersection of ML and AI and healthcare, I'd love to connect. Whether you're a developer, researcher, or a clinician interested in Medical AI applications, I'm always open to discussions, collaborations, and knowledge sharing. Send me a DM at LinkedIn or email me!
 ----
 
 
