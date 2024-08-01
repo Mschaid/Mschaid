@@ -12,7 +12,9 @@ Collaborate with cross-functional teams to translate AI solutions into practice
 I believe in the transformative potential of AI in medicine. By uniting the expertise of technologists, researchers, and healthcare professionals, we can accelerate the development of AI solutions that genuinely improve patient care and medical decision-making.
 
 ### Let's Connect
+
 If you're working at the intersection of ML and AI and healthcare, I'd love to connect. Whether you're a developer, researcher, or a clinician interested in Medical AI applications, I'm always open to discussions, collaborations, and knowledge sharing. Send me a DM at LinkedIn or email me!
+
 ----
 
 
